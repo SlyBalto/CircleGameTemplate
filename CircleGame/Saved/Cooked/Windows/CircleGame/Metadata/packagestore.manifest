@@ -1,12 +1,280 @@
 {
 	"Files": [
 		{
-			"Path": "CircleGame/Content/AABModels_CircleGame/PlayerBall.uasset",
-			"ChunkId": "5e417e1da1d53f7200000001"
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/BasicColors/AAA_BasicColor.uasset",
+			"ChunkId": "940a98789d9e7b1d00000001"
 		},
 		{
-			"Path": "CircleGame/Content/AABModels_CircleGame/PlayerBall.ubulk",
-			"ChunkId": "5e417e1da1d53f7200000002"
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/BasicColors/Basic_darkGrey.uasset",
+			"ChunkId": "97aadcef263434da00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/BasicColors/Basic_grey.uasset",
+			"ChunkId": "c7252307c0c7d16c00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/BasicColors/Basic_lightGrey.uasset",
+			"ChunkId": "24748afda04933ed00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/BasicColors/Basic_white.uasset",
+			"ChunkId": "e652240b382b5d3f00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/BG_Hex_Color.uasset",
+			"ChunkId": "608ce64d15c1f02e00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/EnemyColorOrange.uasset",
+			"ChunkId": "688801e494e8d5c200000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/EnemyColorPurple.uasset",
+			"ChunkId": "5118fbd3582c33a800000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/EnemyColorRed.uasset",
+			"ChunkId": "0b4d619be305a57600000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/EnemyColorYellow.uasset",
+			"ChunkId": "dca1de0a9cb85fea00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/Player3DBarTexture1.uasset",
+			"ChunkId": "5f198b497f12dc1500000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/PlayerBallColor.uasset",
+			"ChunkId": "414d942bc9bbe17d00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/PlayerBallColor2.uasset",
+			"ChunkId": "3eae629a5430fcde00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/PlayerBallColor_Black.uasset",
+			"ChunkId": "bc02428b3a92071e00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/PlayerBar3DMat.uasset",
+			"ChunkId": "49aaf91da3134b7200000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/RingBarrierColor.uasset",
+			"ChunkId": "3b4754b02bf2c45400000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/ShredColor_2sided.uasset",
+			"ChunkId": "0f907cc300566beb00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/Textures/roughPattern.uasset",
+			"ChunkId": "adaec42ef9cad62c00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/Textures/ShineTexture.uasset",
+			"ChunkId": "dce67f280b55316600000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/Unshaded1.uasset",
+			"ChunkId": "5a8bf55c11ebc1c600000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Colors/Unshaded1_White.uasset",
+			"ChunkId": "00fb66496d78a90600000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Effects/ExplosionSimple.uasset",
+			"ChunkId": "8e23fc44c025306d00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Effects/PostProcess/ToonShaderNewCURRENT.uasset",
+			"ChunkId": "1aee83014920c93000000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Effects/PostProcess/ToonShaderNewInst1.uasset",
+			"ChunkId": "469aa8460ecb4d0000000001"
+		},
+		{
+			"Path": "CircleGame/Content/AAATextures_CircleGame/Effects/ShredParticle.uasset",
+			"ChunkId": "1bf23a3e46d1219b00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/BG_Hex.uasset",
+			"ChunkId": "8af36aa144058e7300000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/BG_Hex.ubulk",
+			"ChunkId": "8af36aa144058e7300000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Effects/Puff_Single.uasset",
+			"ChunkId": "404666037fd5a5f400000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Effects/Puff_Single.ubulk",
+			"ChunkId": "404666037fd5a5f400000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Effects/Shreds/Shred1.uasset",
+			"ChunkId": "ae7fd45d7051508800000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Effects/Shreds/Shred1.ubulk",
+			"ChunkId": "ae7fd45d7051508800000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Effects/Shreds/Shred2.uasset",
+			"ChunkId": "9f12aef98240ae0000000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Effects/Shreds/Shred2.ubulk",
+			"ChunkId": "9f12aef98240ae0000000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L1_ball.uasset",
+			"ChunkId": "9d0918aa66bbbc0600000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L1_ball.ubulk",
+			"ChunkId": "9d0918aa66bbbc0600000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L1_ring.uasset",
+			"ChunkId": "abae78ca4f11193900000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L1_ring.ubulk",
+			"ChunkId": "abae78ca4f11193900000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L1_Scoop.uasset",
+			"ChunkId": "2ee5e4fd546f2f1f00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L1_Scoop.ubulk",
+			"ChunkId": "2ee5e4fd546f2f1f00000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L1_SingleDash.uasset",
+			"ChunkId": "8efbaee77002c18b00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L1_SingleDash.ubulk",
+			"ChunkId": "8efbaee77002c18b00000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L2_Cylinders.uasset",
+			"ChunkId": "6ea5f3d38e517ca200000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L2_Cylinders.ubulk",
+			"ChunkId": "6ea5f3d38e517ca200000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L2_Ring.uasset",
+			"ChunkId": "54b951534bf2ba9900000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L2_Ring.ubulk",
+			"ChunkId": "54b951534bf2ba9900000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L2_RingSlots.uasset",
+			"ChunkId": "a0a80f5157d195b700000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L2_RingSlots.ubulk",
+			"ChunkId": "a0a80f5157d195b700000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L2_Scoop.uasset",
+			"ChunkId": "f76f99f8d8d7260800000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L2_Scoop.ubulk",
+			"ChunkId": "f76f99f8d8d7260800000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L2_Triangle.uasset",
+			"ChunkId": "52faeb05fc7b609f00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L2_Triangle.ubulk",
+			"ChunkId": "52faeb05fc7b609f00000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L3_breakable1.uasset",
+			"ChunkId": "7d748a25144912bb00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L3_breakable1.ubulk",
+			"ChunkId": "7d748a25144912bb00000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L3_breakable2.uasset",
+			"ChunkId": "61683bb548eaf0a700000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L3_breakable2.ubulk",
+			"ChunkId": "61683bb548eaf0a700000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L3_Ring.uasset",
+			"ChunkId": "1fdb0b3489e11d0900000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L3_Ring.ubulk",
+			"ChunkId": "1fdb0b3489e11d0900000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L3_RingMiddleSplit.uasset",
+			"ChunkId": "22f8fccbdddd53ae00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L3_RingMiddleSplit.ubulk",
+			"ChunkId": "22f8fccbdddd53ae00000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L3_RingSlots.uasset",
+			"ChunkId": "70821696c4ab222000000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Obstacles/L3_RingSlots.ubulk",
+			"ChunkId": "70821696c4ab222000000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Player3DBar.uasset",
+			"ChunkId": "edcb50760f7afb6d00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/Player3DBar.ubulk",
+			"ChunkId": "edcb50760f7afb6d00000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/PlayerBall3DModel.uasset",
+			"ChunkId": "b366e60a6b9fa77200000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/PlayerBall3DModel.ubulk",
+			"ChunkId": "b366e60a6b9fa77200000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/PlayerBoostIndicator.uasset",
+			"ChunkId": "27efd295857d924b00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/PlayerBoostIndicator.ubulk",
+			"ChunkId": "27efd295857d924b00000002"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/PlayerHeart.uasset",
+			"ChunkId": "0b838d4d61016f5b00000001"
+		},
+		{
+			"Path": "CircleGame/Content/AABModels_CircleGame/PlayerHeart.ubulk",
+			"ChunkId": "0b838d4d61016f5b00000002"
 		},
 		{
 			"Path": "CircleGame/Content/AABModels_CircleGame/RingBounce_Quarter.uasset",
@@ -41,24 +309,164 @@
 			"ChunkId": "1496c28dff3b5ed500000002"
 		},
 		{
-			"Path": "CircleGame/Content/Blueprints/CircelGamePlayerController.uasset",
-			"ChunkId": "dd87cc6e28f4a79700000001"
+			"Path": "CircleGame/Content/Blueprints/3DIndicator.uasset",
+			"ChunkId": "6023d26417f6feb400000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/3DIndicator_Heart.uasset",
+			"ChunkId": "c5eeedd9066af0a200000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/BreakleBlock.uasset",
+			"ChunkId": "7f7f4a50ec4f19f100000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/BreakleBlock_Inner.uasset",
+			"ChunkId": "ec5839623286c19f00000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/CameraShakes/CamShake_EnemyKIlled.uasset",
+			"ChunkId": "3d269e7aa25a32c600000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/CameraShakes/CamShake_small_bounce.uasset",
+			"ChunkId": "782c871d51d0672700000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/CenterSpinner.uasset",
+			"ChunkId": "1cb7757c198e0a6400000001"
 		},
 		{
 			"Path": "CircleGame/Content/Blueprints/CircleGameMode.uasset",
 			"ChunkId": "11598896b2a95fd400000001"
 		},
 		{
+			"Path": "CircleGame/Content/Blueprints/CircleGamePlayerController.uasset",
+			"ChunkId": "0e360fa1b09f54bc00000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/Enemy_AAA_Basic.uasset",
+			"ChunkId": "de4349049c387ef700000001"
+		},
+		{
 			"Path": "CircleGame/Content/Blueprints/GameManager.uasset",
 			"ChunkId": "d49677075519279600000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/Item_Abstract.uasset",
+			"ChunkId": "160de325c558e4da00000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/Item_Split.uasset",
+			"ChunkId": "b7ca94f0aca7cddf00000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/ItemAttached_Abstract.uasset",
+			"ChunkId": "add36e86997da32400000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/ItemAttached_Split.uasset",
+			"ChunkId": "b9c4d88b1cabc27800000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/ItemTypes.uasset",
+			"ChunkId": "8c3ec862bdead46000000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/MacroLibraries/ActorMacros.uasset",
+			"ChunkId": "3386b1fbc226731b00000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/MacroLibraries/MacroLibrary.uasset",
+			"ChunkId": "cfeb1b84993b0a4d00000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/ObstacleCreator.uasset",
+			"ChunkId": "a26c3ac628789c6000000001"
 		},
 		{
 			"Path": "CircleGame/Content/Blueprints/PlayerBall.uasset",
 			"ChunkId": "6191503299d8dff400000001"
 		},
 		{
+			"Path": "CircleGame/Content/Blueprints/Powerups/Powerup_RestoreBlocks.uasset",
+			"ChunkId": "9735dacc2932b29000000001"
+		},
+		{
+			"Path": "CircleGame/Content/Blueprints/Powerups/PowerupRange.uasset",
+			"ChunkId": "4136fddeed40abee00000001"
+		},
+		{
 			"Path": "CircleGame/Content/Levels/Main.umap",
 			"ChunkId": "a2bc56991da13d6b00000001"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/GameMusic.uasset",
+			"ChunkId": "07f9924ea295682700000001"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/GameSFX.uasset",
+			"ChunkId": "9cbaf1a069bae8e600000001"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/GameSoundMaster.uasset",
+			"ChunkId": "9cf2e49538dc521b00000001"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/GameSoundMix.uasset",
+			"ChunkId": "3c3331ac186bb8d800000001"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/Music/Music_Arches.uasset",
+			"ChunkId": "29926d46c6844b1f00000001"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/Music/Music_Arches.ubulk",
+			"ChunkId": "29926d46c6844b1f00000002"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/Music/Music_Arches_Cue.uasset",
+			"ChunkId": "20006be05acc3cc500000001"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/Music/Music_EasyCheesy.uasset",
+			"ChunkId": "0f20edb4ee0243f200000001"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/Music/Music_EasyCheesy.ubulk",
+			"ChunkId": "0f20edb4ee0243f200000002"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/Music/Music_EasyCheesy_Cue.uasset",
+			"ChunkId": "8eb33a793b8431b000000001"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/SFX/impact/ball_hit1.uasset",
+			"ChunkId": "68cf6967875d5fa800000001"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/SFX/impact/ball_hit1.ubulk",
+			"ChunkId": "68cf6967875d5fa800000002"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/SFX/impact/ball_hit1_Cue.uasset",
+			"ChunkId": "5443b5ed3dca9f3100000001"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/SFX/impact/ball_hit2.uasset",
+			"ChunkId": "8936b09652e808b200000001"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/SFX/impact/ball_hit2.ubulk",
+			"ChunkId": "8936b09652e808b200000002"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/SFX/Menu/Menu_Accept.uasset",
+			"ChunkId": "5aff43e6f048f0a100000001"
+		},
+		{
+			"Path": "CircleGame/Content/Sounds/SFX/Menu/Menu_Accept.ubulk",
+			"ChunkId": "5aff43e6f048f0a100000002"
 		},
 		{
 			"Path": "Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset",
@@ -79,6 +487,10 @@
 		{
 			"Path": "Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk",
 			"ChunkId": "7b9c08e592b6f57800000002"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+			"ChunkId": "5516ce2c36f3d9ae00000001"
 		},
 		{
 			"Path": "Engine/Content/BasicShapes/Cone.uasset",
@@ -119,6 +531,10 @@
 		{
 			"Path": "Engine/Content/BasicShapes/Sphere.ubulk",
 			"ChunkId": "4a782f60fcb4c26e00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+			"ChunkId": "72ff6427f1042ed200000001"
 		},
 		{
 			"Path": "Engine/Content/EditorLandscapeResources/DataLayer.uasset",
@@ -233,16 +649,16 @@
 			"ChunkId": "d4904df7434a1c3e00000002"
 		},
 		{
+			"Path": "Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset",
+			"ChunkId": "dee7fa19f423dfad00000001"
+		},
+		{
 			"Path": "Engine/Content/EditorResources/BSPVertex.uasset",
 			"ChunkId": "9784ada5ce57b7cb00000001"
 		},
 		{
 			"Path": "Engine/Content/EditorResources/EmptyActor.uasset",
 			"ChunkId": "cb90c94586b3228900000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/LightIcons/S_LightError.uasset",
-			"ChunkId": "6ed73496191bba2800000001"
 		},
 		{
 			"Path": "Engine/Content/EditorResources/S_Actor.uasset",
@@ -311,6 +727,14 @@
 		{
 			"Path": "Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
 			"ChunkId": "d9ef76f15dcbda9d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset",
+			"ChunkId": "7b9090801b63995900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/HeatmapGradient.ubulk",
+			"ChunkId": "7b9090801b63995900000002"
 		},
 		{
 			"Path": "Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset",
@@ -673,10 +1097,6 @@
 			"ChunkId": "730711032edb546300000001"
 		},
 		{
-			"Path": "Engine/Content/EngineSounds/Master.uasset",
-			"ChunkId": "e670df8e769d382e00000001"
-		},
-		{
 			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
 			"ChunkId": "7819480612024b3600000001"
 		},
@@ -697,6 +1117,18 @@
 			"ChunkId": "b059d54260cfd24100000001"
 		},
 		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset",
+			"ChunkId": "e43855b9d402d6d500000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset",
+			"ChunkId": "dab3ede8bda8d8ca00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast_RGB.uasset",
+			"ChunkId": "68868b214df35bc400000001"
+		},
+		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset",
 			"ChunkId": "6a3b7a697242e13400000001"
 		},
@@ -707,6 +1139,10 @@
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset",
 			"ChunkId": "474711309ee6ba8900000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset",
+			"ChunkId": "22ce47c64c5d7f1300000001"
 		},
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset",
@@ -737,6 +1173,14 @@
 			"ChunkId": "a29fb34f83f7d31a00000001"
 		},
 		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset",
+			"ChunkId": "0ccdb42a00235ca400000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped.uasset",
+			"ChunkId": "5d6354cf2dc636d400000001"
+		},
+		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset",
 			"ChunkId": "3f4f90b51972562400000001"
 		},
@@ -751,6 +1195,10 @@
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset",
 			"ChunkId": "4762b775bfe4b22d00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset",
+			"ChunkId": "50414c7d1d2b126400000001"
 		},
 		{
 			"Path": "Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset",
@@ -1920,6 +2368,12 @@
 			]
 		},
 		{
+			"Name": "/Engine/BasicShapes/BasicShapeMaterial",
+			"ExportBundleChunkIds": [
+				"5516ce2c36f3d9ae00000001"
+			]
+		},
+		{
 			"Name": "/Engine/BasicShapes/Cone",
 			"ExportBundleChunkIds": [
 				"f23f619700918ac500000001"
@@ -1962,6 +2416,12 @@
 			],
 			"BulkDataChunkIds": [
 				"4a782f60fcb4c26e00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
+			"ExportBundleChunkIds": [
+				"72ff6427f1042ed200000001"
 			]
 		},
 		{
@@ -2103,6 +2563,12 @@
 			]
 		},
 		{
+			"Name": "/Engine/EditorResources/AudioIcons/S_AudioComponent_AutoActivate",
+			"ExportBundleChunkIds": [
+				"dee7fa19f423dfad00000001"
+			]
+		},
+		{
 			"Name": "/Engine/EditorResources/BSPVertex",
 			"ExportBundleChunkIds": [
 				"9784ada5ce57b7cb00000001"
@@ -2112,12 +2578,6 @@
 			"Name": "/Engine/EditorResources/EmptyActor",
 			"ExportBundleChunkIds": [
 				"cb90c94586b3228900000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/LightIcons/S_LightError",
-			"ExportBundleChunkIds": [
-				"6ed73496191bba2800000001"
 			]
 		},
 		{
@@ -2208,6 +2668,15 @@
 			"Name": "/Engine/EngineDebugMaterials/DebugMeshMaterial",
 			"ExportBundleChunkIds": [
 				"d9ef76f15dcbda9d00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/HeatmapGradient",
+			"ExportBundleChunkIds": [
+				"7b9090801b63995900000001"
+			],
+			"BulkDataChunkIds": [
+				"7b9090801b63995900000002"
 			]
 		},
 		{
@@ -2724,12 +3193,6 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineSounds/Master",
-			"ExportBundleChunkIds": [
-				"e670df8e769d382e00000001"
-			]
-		},
-		{
 			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
 			"ExportBundleChunkIds": [
 				"7819480612024b3600000001"
@@ -2760,6 +3223,24 @@
 			]
 		},
 		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient",
+			"ExportBundleChunkIds": [
+				"e43855b9d402d6d500000001"
+			]
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast",
+			"ExportBundleChunkIds": [
+				"dab3ede8bda8d8ca00000001"
+			]
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast_RGB",
+			"ExportBundleChunkIds": [
+				"68868b214df35bc400000001"
+			]
+		},
+		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade",
 			"ExportBundleChunkIds": [
 				"6a3b7a697242e13400000001"
@@ -2775,6 +3256,12 @@
 			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness",
 			"ExportBundleChunkIds": [
 				"474711309ee6ba8900000001"
+			]
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture",
+			"ExportBundleChunkIds": [
+				"22ce47c64c5d7f1300000001"
 			]
 		},
 		{
@@ -2820,6 +3307,18 @@
 			]
 		},
 		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4",
+			"ExportBundleChunkIds": [
+				"0ccdb42a00235ca400000001"
+			]
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped",
+			"ExportBundleChunkIds": [
+				"5d6354cf2dc636d400000001"
+			]
+		},
+		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/VectorLength",
 			"ExportBundleChunkIds": [
 				"3f4f90b51972562400000001"
@@ -2841,6 +3340,12 @@
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale",
 			"ExportBundleChunkIds": [
 				"4762b775bfe4b22d00000001"
+			]
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions03/Math/RemapValueRange",
+			"ExportBundleChunkIds": [
+				"50414c7d1d2b126400000001"
 			]
 		},
 		{
@@ -2931,12 +3436,357 @@
 			]
 		},
 		{
-			"Name": "/Game/AABModels_CircleGame/PlayerBall",
+			"Name": "/Game/AAATextures_CircleGame/Colors/3DBarMat"
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/BasicColors/AAA_BasicColor",
 			"ExportBundleChunkIds": [
-				"5e417e1da1d53f7200000001"
+				"940a98789d9e7b1d00000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/BasicColors/Basic_darkGrey",
+			"ExportBundleChunkIds": [
+				"97aadcef263434da00000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/BasicColors/Basic_grey",
+			"ExportBundleChunkIds": [
+				"c7252307c0c7d16c00000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/BasicColors/Basic_lightGrey",
+			"ExportBundleChunkIds": [
+				"24748afda04933ed00000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/BasicColors/Basic_white",
+			"ExportBundleChunkIds": [
+				"e652240b382b5d3f00000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/BG_Hex_Color",
+			"ExportBundleChunkIds": [
+				"608ce64d15c1f02e00000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/EnemyColorOrange",
+			"ExportBundleChunkIds": [
+				"688801e494e8d5c200000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/EnemyColorPurple",
+			"ExportBundleChunkIds": [
+				"5118fbd3582c33a800000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/EnemyColorRed",
+			"ExportBundleChunkIds": [
+				"0b4d619be305a57600000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/EnemyColorYellow",
+			"ExportBundleChunkIds": [
+				"dca1de0a9cb85fea00000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/Player3DBarTexture1",
+			"ExportBundleChunkIds": [
+				"5f198b497f12dc1500000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/PlayerBallColor",
+			"ExportBundleChunkIds": [
+				"414d942bc9bbe17d00000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/PlayerBallColor2",
+			"ExportBundleChunkIds": [
+				"3eae629a5430fcde00000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/PlayerBallColor_Black",
+			"ExportBundleChunkIds": [
+				"bc02428b3a92071e00000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/PlayerBar3DMat",
+			"ExportBundleChunkIds": [
+				"49aaf91da3134b7200000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/RingBarrierColor",
+			"ExportBundleChunkIds": [
+				"3b4754b02bf2c45400000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/ShredColor_2sided",
+			"ExportBundleChunkIds": [
+				"0f907cc300566beb00000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/Textures/roughPattern",
+			"ExportBundleChunkIds": [
+				"adaec42ef9cad62c00000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/Textures/ShineTexture",
+			"ExportBundleChunkIds": [
+				"dce67f280b55316600000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/Unshaded1",
+			"ExportBundleChunkIds": [
+				"5a8bf55c11ebc1c600000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Colors/Unshaded1_White",
+			"ExportBundleChunkIds": [
+				"00fb66496d78a90600000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Effects/ExplosionSimple",
+			"ExportBundleChunkIds": [
+				"8e23fc44c025306d00000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Effects/PostProcess/ToonShaderNewCURRENT",
+			"ExportBundleChunkIds": [
+				"1aee83014920c93000000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Effects/PostProcess/ToonShaderNewInst1",
+			"ExportBundleChunkIds": [
+				"469aa8460ecb4d0000000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures_CircleGame/Effects/ShredParticle",
+			"ExportBundleChunkIds": [
+				"1bf23a3e46d1219b00000001"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/BG_Hex",
+			"ExportBundleChunkIds": [
+				"8af36aa144058e7300000001"
 			],
 			"BulkDataChunkIds": [
-				"5e417e1da1d53f7200000002"
+				"8af36aa144058e7300000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Effects/Puff_Single",
+			"ExportBundleChunkIds": [
+				"404666037fd5a5f400000001"
+			],
+			"BulkDataChunkIds": [
+				"404666037fd5a5f400000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Effects/Shreds/Shred1",
+			"ExportBundleChunkIds": [
+				"ae7fd45d7051508800000001"
+			],
+			"BulkDataChunkIds": [
+				"ae7fd45d7051508800000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Effects/Shreds/Shred2",
+			"ExportBundleChunkIds": [
+				"9f12aef98240ae0000000001"
+			],
+			"BulkDataChunkIds": [
+				"9f12aef98240ae0000000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Obstacles/L1_ball",
+			"ExportBundleChunkIds": [
+				"9d0918aa66bbbc0600000001"
+			],
+			"BulkDataChunkIds": [
+				"9d0918aa66bbbc0600000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Obstacles/L1_ring",
+			"ExportBundleChunkIds": [
+				"abae78ca4f11193900000001"
+			],
+			"BulkDataChunkIds": [
+				"abae78ca4f11193900000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Obstacles/L1_Scoop",
+			"ExportBundleChunkIds": [
+				"2ee5e4fd546f2f1f00000001"
+			],
+			"BulkDataChunkIds": [
+				"2ee5e4fd546f2f1f00000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Obstacles/L1_SingleDash",
+			"ExportBundleChunkIds": [
+				"8efbaee77002c18b00000001"
+			],
+			"BulkDataChunkIds": [
+				"8efbaee77002c18b00000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Obstacles/L2_Cylinders",
+			"ExportBundleChunkIds": [
+				"6ea5f3d38e517ca200000001"
+			],
+			"BulkDataChunkIds": [
+				"6ea5f3d38e517ca200000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Obstacles/L2_Ring",
+			"ExportBundleChunkIds": [
+				"54b951534bf2ba9900000001"
+			],
+			"BulkDataChunkIds": [
+				"54b951534bf2ba9900000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Obstacles/L2_RingSlots",
+			"ExportBundleChunkIds": [
+				"a0a80f5157d195b700000001"
+			],
+			"BulkDataChunkIds": [
+				"a0a80f5157d195b700000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Obstacles/L2_Scoop",
+			"ExportBundleChunkIds": [
+				"f76f99f8d8d7260800000001"
+			],
+			"BulkDataChunkIds": [
+				"f76f99f8d8d7260800000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Obstacles/L2_Triangle",
+			"ExportBundleChunkIds": [
+				"52faeb05fc7b609f00000001"
+			],
+			"BulkDataChunkIds": [
+				"52faeb05fc7b609f00000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Obstacles/L3_breakable1",
+			"ExportBundleChunkIds": [
+				"7d748a25144912bb00000001"
+			],
+			"BulkDataChunkIds": [
+				"7d748a25144912bb00000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Obstacles/L3_breakable2",
+			"ExportBundleChunkIds": [
+				"61683bb548eaf0a700000001"
+			],
+			"BulkDataChunkIds": [
+				"61683bb548eaf0a700000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Obstacles/L3_Ring",
+			"ExportBundleChunkIds": [
+				"1fdb0b3489e11d0900000001"
+			],
+			"BulkDataChunkIds": [
+				"1fdb0b3489e11d0900000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Obstacles/L3_RingMiddleSplit",
+			"ExportBundleChunkIds": [
+				"22f8fccbdddd53ae00000001"
+			],
+			"BulkDataChunkIds": [
+				"22f8fccbdddd53ae00000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Obstacles/L3_RingSlots",
+			"ExportBundleChunkIds": [
+				"70821696c4ab222000000001"
+			],
+			"BulkDataChunkIds": [
+				"70821696c4ab222000000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/Player3DBar",
+			"ExportBundleChunkIds": [
+				"edcb50760f7afb6d00000001"
+			],
+			"BulkDataChunkIds": [
+				"edcb50760f7afb6d00000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/PlayerBall"
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/PlayerBall3DModel",
+			"ExportBundleChunkIds": [
+				"b366e60a6b9fa77200000001"
+			],
+			"BulkDataChunkIds": [
+				"b366e60a6b9fa77200000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/PlayerBoostIndicator",
+			"ExportBundleChunkIds": [
+				"27efd295857d924b00000001"
+			],
+			"BulkDataChunkIds": [
+				"27efd295857d924b00000002"
+			]
+		},
+		{
+			"Name": "/Game/AABModels_CircleGame/PlayerHeart",
+			"ExportBundleChunkIds": [
+				"0b838d4d61016f5b00000001"
+			],
+			"BulkDataChunkIds": [
+				"0b838d4d61016f5b00000002"
 			]
 		},
 		{
@@ -2976,10 +3826,55 @@
 			]
 		},
 		{
-			"Name": "/Game/Blueprints/CircelGamePlayerController",
+			"Name": "/Game/Blueprints/3DIndicator",
 			"ExportBundleChunkIds": [
-				"dd87cc6e28f4a79700000001"
+				"6023d26417f6feb400000001"
 			]
+		},
+		{
+			"Name": "/Game/Blueprints/3DIndicator_Heart",
+			"ExportBundleChunkIds": [
+				"c5eeedd9066af0a200000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/ActorMacros"
+		},
+		{
+			"Name": "/Game/Blueprints/BreakleBlock",
+			"ExportBundleChunkIds": [
+				"7f7f4a50ec4f19f100000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/BreakleBlock_Inner",
+			"ExportBundleChunkIds": [
+				"ec5839623286c19f00000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/CameraShakes/CamShake1"
+		},
+		{
+			"Name": "/Game/Blueprints/CameraShakes/CamShake_EnemyKIlled",
+			"ExportBundleChunkIds": [
+				"3d269e7aa25a32c600000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/CameraShakes/CamShake_small_bounce",
+			"ExportBundleChunkIds": [
+				"782c871d51d0672700000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/CenterSpinner",
+			"ExportBundleChunkIds": [
+				"1cb7757c198e0a6400000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/CircelGamePlayerController"
 		},
 		{
 			"Name": "/Game/Blueprints/CircleGameMode",
@@ -2988,9 +3883,72 @@
 			]
 		},
 		{
+			"Name": "/Game/Blueprints/CircleGamePlayerController",
+			"ExportBundleChunkIds": [
+				"0e360fa1b09f54bc00000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/Enemy_AAA_Basic",
+			"ExportBundleChunkIds": [
+				"de4349049c387ef700000001"
+			]
+		},
+		{
 			"Name": "/Game/Blueprints/GameManager",
 			"ExportBundleChunkIds": [
 				"d49677075519279600000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/Item_Abstract",
+			"ExportBundleChunkIds": [
+				"160de325c558e4da00000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/Item_Split",
+			"ExportBundleChunkIds": [
+				"b7ca94f0aca7cddf00000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/ItemAttached_Abstract",
+			"ExportBundleChunkIds": [
+				"add36e86997da32400000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/ItemAttached_Split",
+			"ExportBundleChunkIds": [
+				"b9c4d88b1cabc27800000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/ItemTypes",
+			"ExportBundleChunkIds": [
+				"8c3ec862bdead46000000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/MacroLibraries/ActorMacros",
+			"ExportBundleChunkIds": [
+				"3386b1fbc226731b00000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/MacroLibraries/MacroLibrary",
+			"ExportBundleChunkIds": [
+				"cfeb1b84993b0a4d00000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/MacroLibrary"
+		},
+		{
+			"Name": "/Game/Blueprints/ObstacleCreator",
+			"ExportBundleChunkIds": [
+				"a26c3ac628789c6000000001"
 			]
 		},
 		{
@@ -3003,9 +3961,111 @@
 			"Name": "/Game/Blueprints/PlayerController"
 		},
 		{
+			"Name": "/Game/Blueprints/Powerup_Abstract"
+		},
+		{
+			"Name": "/Game/Blueprints/Powerups/Powerup_RestoreBlocks",
+			"ExportBundleChunkIds": [
+				"9735dacc2932b29000000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/Powerups/PowerupRange",
+			"ExportBundleChunkIds": [
+				"4136fddeed40abee00000001"
+			]
+		},
+		{
 			"Name": "/Game/Levels/Main",
 			"ExportBundleChunkIds": [
 				"a2bc56991da13d6b00000001"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/GameMusic",
+			"ExportBundleChunkIds": [
+				"07f9924ea295682700000001"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/GameSFX",
+			"ExportBundleChunkIds": [
+				"9cbaf1a069bae8e600000001"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/GameSoundMaster",
+			"ExportBundleChunkIds": [
+				"9cf2e49538dc521b00000001"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/GameSoundMix",
+			"ExportBundleChunkIds": [
+				"3c3331ac186bb8d800000001"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/Music/Music_Arches",
+			"ExportBundleChunkIds": [
+				"29926d46c6844b1f00000001"
+			],
+			"BulkDataChunkIds": [
+				"29926d46c6844b1f00000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/Music/Music_Arches_Cue",
+			"ExportBundleChunkIds": [
+				"20006be05acc3cc500000001"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/Music/Music_EasyCheesy",
+			"ExportBundleChunkIds": [
+				"0f20edb4ee0243f200000001"
+			],
+			"BulkDataChunkIds": [
+				"0f20edb4ee0243f200000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/Music/Music_EasyCheesy_Cue",
+			"ExportBundleChunkIds": [
+				"8eb33a793b8431b000000001"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/SFX/impact/ball_hit1",
+			"ExportBundleChunkIds": [
+				"68cf6967875d5fa800000001"
+			],
+			"BulkDataChunkIds": [
+				"68cf6967875d5fa800000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/SFX/impact/ball_hit1_Cue",
+			"ExportBundleChunkIds": [
+				"5443b5ed3dca9f3100000001"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/SFX/impact/ball_hit2",
+			"ExportBundleChunkIds": [
+				"8936b09652e808b200000001"
+			],
+			"BulkDataChunkIds": [
+				"8936b09652e808b200000002"
+			]
+		},
+		{
+			"Name": "/Game/Sounds/SFX/Menu/Menu_Accept",
+			"ExportBundleChunkIds": [
+				"5aff43e6f048f0a100000001"
+			],
+			"BulkDataChunkIds": [
+				"5aff43e6f048f0a100000002"
 			]
 		},
 		{
